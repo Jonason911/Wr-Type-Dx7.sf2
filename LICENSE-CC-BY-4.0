@@ -1,0 +1,62 @@
+Wr-Type-Dx7.sf2
+Copyright (c) 2026 Jonason911 (W_Muzix)
+
+This work is licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+
+You are free to:
+
+  - Share   — copy and redistribute the material in any medium or format
+  - Adapt   — remix, transform, and build upon the material
+              for any purpose, even commercially.
+
+Under the following terms:
+
+  - Attribution — You must give appropriate credit to the author
+    (Jonason911 / W_Muzix), provide a link to this repository, and
+    indicate if changes were made. You may do so in any reasonable
+    manner, but not in any way that suggests the author endorses you
+    or your use.
+
+No additional restrictions — You may not apply legal terms or
+technological measures that legally restrict others from doing
+anything the license permits.
+
+----------------------------------------------------------------
+IMPORTANT: Use in music is explicitly allowed
+----------------------------------------------------------------
+You MAY use this soundfont in commercial music production,
+including but not limited to:
+
+  - Released tracks, albums, EPs (streaming / sales / physical)
+  - Commercial commissions, jingles, background music
+  - Live performance, videos, games, film scoring
+  - Reselling or redistributing your own music that uses it
+
+Attribution in a track's liner notes, video description, or
+credits is appreciated and satisfies the requirement. Attribution
+is NOT required on a per-track audio level — crediting the
+soundfont somewhere reasonable is enough.
+
+You may NOT redistribute the .sf2 file itself as your own work,
+or sell the soundfont as a standalone product.
+
+Full legal code:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Human-readable summary:
+https://creativecommons.org/licenses/by/4.0/
+
+----------------------------------------------------------------
+Note on the synthesis source
+----------------------------------------------------------------
+This soundfont was sound-designed by the author using DEXED, an
+open-source DX7 FM synthesizer (GPL v3). The sound is an original
+FM patch inspired by the Yamaha MODX m7 "Wr typedeck" preset and
+classic DX7 electric piano tones; it is not a copy of any Yamaha
+factory ROM data, and contains no samples from any commercial
+sample library.
+
+The GPL license of DEXED applies to DEXED's source code, not to
+the audio you create with it, so this soundfont is not required to
+be GPL.
